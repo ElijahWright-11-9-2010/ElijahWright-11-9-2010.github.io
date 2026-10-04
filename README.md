@@ -14,7 +14,7 @@
 
 - [ ] Secrets of strixhaven Play Booster Display 100$
 
-
+![Minion](https://octodex.github.com/images/minion.png)
 
 
 
