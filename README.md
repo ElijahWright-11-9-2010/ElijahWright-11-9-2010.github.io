@@ -14,7 +14,7 @@
 
 - [ ] Secrets of strixhaven Play Booster Display 100$
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://tcgplayer-cdn.tcgplayer.com/product/675555_in_1000x1000.jpg)
 
 
 
