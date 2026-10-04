@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="Style.css">
 
 ## Police
-#### Captain Wright with the Enfield Police Cadets
+#### Captain Wright with the Enfield Police Cadets (Ages 13-18 Spots avalable)
 ##### Contact me at 860-335-4289
 # MTG BUY/SELL/TRADE
 ## In Stock 
