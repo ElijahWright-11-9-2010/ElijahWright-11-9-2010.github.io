@@ -14,9 +14,3 @@
 ![SOSP](https://tcgplayer-cdn.tcgplayer.com/product/675555_in_1000x1000.jpg)
 
 
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
